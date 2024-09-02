@@ -19,7 +19,9 @@ To get started with the module you'll need to install the Windows App, then conn
 
 You should be able to play and hear sounds (make sure the volume control on the module is set to max to make sure it's outputting sound).
 
-To make the sounds remain on the module you'll need to click the 'Module Data' tab, create a PatchSet then save this PatchSet to the module. It's highly recommended to read the help file in the app !
+To make the sounds remain on the module you'll need to click the 'Module Data' tab, create a PatchSet then save this PatchSet to the module. 
+
+It's highly recommended to read the help file in the app !
 
 
 
