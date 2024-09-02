@@ -24,6 +24,9 @@ PCB V5:
 Enclosure:
 ![The PCB enclosure](/Documentation/Project-Photos/SpectralSoundModuleV5_Enclosure_1.jpg)
 
+Tone Processor functional diagram:
+![The Tone Processor functional diagram](/Documentation/Project-Photos/ToneProcessorFunctionalDiagram1.jpg)
+
 
 
 
