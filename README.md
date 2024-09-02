@@ -1,15 +1,6 @@
 # Spectral-Sound-MIDI-Synthesiser
 This is an Additive Synthesis Module available as a kit from the Australian Silicon Chip Magazine (see June 2022 edition article). The synthesiser comprises a PCB with Microchip MPLABX C firmware, and an associated Windows Patch Editor App, written in C# Winforms. This repository holds all software, documentation, examples and links. 
 
-The synth article was in the Silicon Chip Magasine June 2022:
-![Article was in the Silicon Chip Magasine June 2022](SiliconChipMagasineJune2022FrontCover.jpg)
-
-PCB V5:
-![The PCB V 5](/Documentation/Project-Photos/SpectralSoundModuleV5_PCB_1.jpg)
-
-Enclosure:
-![The PCB enclosure](/Documentation/Project-Photos/SpectralSoundModuleV5_Enclosure_1.jpg)
-
 # Getting started
 To get started with the module you'll need to install the Windows App, then connect the module via USB. The module doesn't have any inbuilt sounds until you load some.
 - Open the Windows app. It will preconfigure the initial patch for a basic sound.
@@ -22,6 +13,17 @@ You should be able to play and hear sounds (make sure the volume control on the 
 To make the sounds remain on the module you'll need to click the 'Module Data' tab, create a PatchSet then save this PatchSet to the module. 
 
 It's highly recommended to read the help file in the app !
+
+The synth article was in the Silicon Chip Magasine June 2022:
+![Article was in the Silicon Chip Magasine June 2022](SiliconChipMagasineJune2022FrontCover.jpg)
+
+PCB V5:
+![The PCB V 5](/Documentation/Project-Photos/SpectralSoundModuleV5_PCB_1.jpg)
+
+Enclosure:
+![The PCB enclosure](/Documentation/Project-Photos/SpectralSoundModuleV5_Enclosure_1.jpg)
+
+
 
 
 
