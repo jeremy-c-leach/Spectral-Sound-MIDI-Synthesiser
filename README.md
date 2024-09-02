@@ -16,7 +16,9 @@ To get started with the module you'll need to install the Windows App, then conn
 - With the USB cable connected to the module, select the menu option 'Tools>Synchronize data with the module' (or click the sync button). This will send the patch to the module.
 - Connect a MIDI controller keyboard (or any MIDI keyboard), SET TO TRANSMIT ON CHANNEL 1 (because the module defaults to channel 1).
 - Connect the audio output to your amplifier (the audio output is line-level and NOT a headphone output).
+
 You should be able to play and hear sounds (make sure the volume control on the module is set to max to make sure it's outputting sound).
+
 To make the sounds remain on the module you'll need to click the 'Module Data' tab, create a PatchSet then save this PatchSet to the module. It's highly recommended to read the help file in the app !
 
 
