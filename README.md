@@ -14,6 +14,7 @@ To make the sounds remain on the module you'll need to click the 'Module Data' t
 
 It's highly recommended to read the help file in the app !
 
+
 The synth article was in the Silicon Chip Magasine June 2022:
 ![Article was in the Silicon Chip Magasine June 2022](SiliconChipMagasineJune2022FrontCover.jpg)
 
