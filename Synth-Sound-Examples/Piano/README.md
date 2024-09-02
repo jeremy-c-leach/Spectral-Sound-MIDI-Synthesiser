@@ -1,9 +1,14 @@
 # Piano Sound Examples
 
-## Claire De Lune Video
-- Watch the video demonstration on YouTube: [Piano sound recreated purely on this Synth](https://youtu.be/WcUckqA5x3k).
+## Claire De Lune
+This famous Debussy melody is recreated here solely using a created piano sound from the Spectral Sound Module. 
 
-This famous Debussy melody is recreated here solely using a created piano sound from the Spectral Sound Module.  
+<a href="https://youtu.be/WcUckqA5x3k" target="_blank">
+  <img src="DebussyClaireDeLune_Thumbnail.png" alt="Claire De Lune recreated purely on this Synth" width="200">
+</a>
+
+Click image to watch video on YouTube.
+
 
 
 
