@@ -1,6 +1,6 @@
 # Clarinet Sound Examples
 
-## Stranger on the Shore, for Clarinet and Piano Video
+## Stranger on the Shore, for Clarinet and Piano
 
 This Jazz standard, written by Acker Bilk for his daughter, is recreated here solely using the sounds from the Spectral Sound Module (for both Piano and Clarinet).
 
