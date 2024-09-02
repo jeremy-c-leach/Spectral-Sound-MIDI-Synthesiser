@@ -24,7 +24,8 @@ PCB V5:
 Enclosure:
 ![The PCB enclosure](/Documentation/Project-Photos/SpectralSoundModuleV5_Enclosure_1.jpg)
 
-Tone Processor functional diagram:
+The sound from the synthesiser has a sophisticated set of envelopes, with additive synthesis at the core. There are 6 'Tone Processor' chips on the PCB. This is the functional diagram for a single 
+Tone Processor:
 ![The Tone Processor functional diagram](/Documentation/Project-Photos/ToneProcessorFunctionalDiagram1.jpg)
 
 
