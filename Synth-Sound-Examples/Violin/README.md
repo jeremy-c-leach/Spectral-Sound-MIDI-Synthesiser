@@ -5,10 +5,14 @@
 
 This PDF contains the Spectral Definition Language (SDL) code for synthesizing a violin sound. The SDL code demonstrates how to configure various parameters to achieve a realistic violin tone, suitable for use with the Spectral Sound MIDI Synthesiser.
 
-## Meditation from Thais, for Violin and Piano Video
-- Watch the video demonstration on YouTube: [Piano sound recreated purely on this Synth](https://youtu.be/majPipMLyl8).
+## Meditation from Thais, for Violin and Piano
+This beautiful piece is recreated here solely using the sounds from the Spectral Sound Module (both Piano and Violin). 
 
-This beautiful piece is recreated here solely using the sounds from the Spectral Sound Module (both Piano and Violin).  
+<a href="https://youtu.be/majPipMLyl8" target="_blank">
+  <img src="JulesMassenetMeditation_Thumbnail.png" alt="Meditation from Thais recreated solely using this synth" width="200">
+</a>
+
+Click image to watch video on YouTube. 
 
 
 
