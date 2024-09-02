@@ -8,6 +8,7 @@ This PDF contains the Spectral Definition Language (SDL) code for synthesizing a
 
 ## Early One Morning
 A traditional English folk song, dating to 1787.
+
 <a href="https://youtu.be/XOUh1jiwQoU" target="_blank">
   <img src="EarlyOneMorning_Thumbnail.png" alt="Early One Morning recreated purely on this Synth" width="200">
 </a>
@@ -16,6 +17,7 @@ Click image to watch video on YouTube.
 
 ## Scarborough Fair
 A traditional English folk piece, dating back many centuries.
+
 <a href="https://youtu.be/tbN0DFqzb58" target="_blank">
   <img src="ScarboroughFair_Thumbnail.png" alt="Scarborough Fair recreated purely on this Synth" width="200">
 </a>
@@ -24,6 +26,9 @@ Click image to watch video on YouTube.
 
 ## The Ash Grove
 A traditional Welsh piece, ascribed to Llwyn On.
+
 <a href="https://youtu.be/HeAvzluVTlw" target="_blank">
   <img src="AshGrove_Thumbnail.png" alt="The Ash Grove recreated purely on this Synth" width="200">
 </a>
+
+Click image to watch video on YouTube.
