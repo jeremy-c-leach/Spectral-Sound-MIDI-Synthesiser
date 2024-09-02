@@ -13,5 +13,7 @@ The classic 1933 torch song written by Harold Arlen and Ted Koehler.
 Click image to watch video on YouTube.
 
 ## Blue Skies
+The jazz standard, written by Irving Berlin in 1926.
+
 - [Download WAV Example Sound](TrumpetExample_BlueSkies.wav)
 
